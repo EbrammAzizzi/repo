@@ -1,4 +1,4 @@
-int a = 20
+int a = 4820
 
 class Animal {
   public void animalSound() {
