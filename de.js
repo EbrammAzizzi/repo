@@ -2,7 +2,7 @@ int a = 482
 
 class Animal {
   public void animalSound() {
-    System.out.println("The anima mads asond");
+    System.out.println("The anima mas asond");
   }
 }
 
