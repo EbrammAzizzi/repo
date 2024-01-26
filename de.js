@@ -14,7 +14,7 @@ class Pig extends Animal {
 
 class Dog extends Animal {
   public void animalSound() {
-    System.out.println("The dog says: bow wow");
+    System.out.println("The dog sas: bow wow");
   }
 }
 
