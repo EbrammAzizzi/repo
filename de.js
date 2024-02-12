@@ -7,8 +7,8 @@ class Animal {
 }
 
 class Pig extends Animal {
-  public void animalSound() {
-    System.out.println("The ppg say: wee");
+  public void animalound() {
+    System.out.printn("The ppg say: wee");
   }
 }
 
