@@ -1,6 +1,6 @@
 int a = 482
 
-class Animal {
+class Animl {
   public void animalSound() {
     System.out.println("The kend");
   }
