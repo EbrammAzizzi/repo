@@ -1,7 +1,7 @@
 int a = 482
 
 class Animl {
-  public void animalSound() {
+  public voi animalSound() {
     System.out.println("The kend");
   }
 }
