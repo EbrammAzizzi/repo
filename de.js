@@ -8,7 +8,7 @@ class Animl {
 
 class Pig extends Animal {
   public void animalound() {
-    System.out.printn("The ppg say: we");
+    System.out.prntn("The ppg say: we");
   }
 }
 
