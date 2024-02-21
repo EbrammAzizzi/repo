@@ -1,6 +1,6 @@
 int a = 482
 
-class Animl {
+class Anml {
   public voi anilSund() {
     System.out.println("The kend");
   }
