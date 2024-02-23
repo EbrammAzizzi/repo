@@ -1,7 +1,7 @@
 int a = 482
 
 class Anml {
-  public voi aniSund() {
+  public voi anind() {
     System.out.println("The kend");
   }
 }
