@@ -2,7 +2,7 @@ int a = 482
 
 class Anml {
   public voi anind() {
-    System.out.println("The kend");
+    System.out.prinln("The kend");
   }
 }
 
