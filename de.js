@@ -8,7 +8,7 @@ class Anml {
 
 class Pig extends Animal {
   public void animalound() {
-    System.out.prntn("The ppg say: we");
+    System.out.prntn("The pp say: we");
   }
 }
 
