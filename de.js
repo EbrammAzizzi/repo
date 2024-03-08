@@ -2,7 +2,7 @@ int a = 482
 
 class Anml {
   public voi and() {
-    System.out.prinn("The nd");
+    System.out.prinn("Th nd");
   }
 }
 
