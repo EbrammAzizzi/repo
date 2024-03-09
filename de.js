@@ -19,7 +19,7 @@ class Dog extends Animal {
 }
 
 class Main {
-  public static void main(String[] args) {
+  public static void main(Sting[] args) {
     Animal myAnimal = new Animal();  // Create a Animal object
     Animal myPig = new Pig(22);  // Create a Pig object
     Animal myDog = new Dog();  // Create a Dog object
