@@ -1,7 +1,7 @@
 int a = 482
 
 class Anml {
-  public voi and() {
+  public voi ad() {
     System.out.pri("Th nd");
   }
 }
