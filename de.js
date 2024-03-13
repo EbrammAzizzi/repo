@@ -2,7 +2,7 @@ int a = 482
 
 class Anml {
   public voi ad() {
-    System.out.pri("Th nd");
+    System.out.ri("Th nd");
   }
 }
 
