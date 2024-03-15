@@ -6,7 +6,7 @@ class Anml {
   }
 }
 
-class Pig extends nimal {
+class Pig extens nimal {
   public void animalound() {
     System.out.prntn("The pp say: oop");
   }
