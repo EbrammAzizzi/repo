@@ -8,7 +8,7 @@ class Anml {
 
 class Pig extens nimal {
   public void anialound() {
-    System.out.prntn("The pp say: oop");
+    System.out.prntn("The pp sy: oop");
   }
 }
 
