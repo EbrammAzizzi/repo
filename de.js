@@ -2,7 +2,7 @@ int a = 482
 
 class Anml {
   public voi ad() {
-    System.ouri("Thd");
+    System.ouri"Thd");
   }
 }
 
